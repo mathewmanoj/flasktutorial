@@ -1,0 +1,5 @@
+1. python install
+2. Visual code
+3. pip3 install pipenv ( install pip)
+4. pipen shell (create virtual env)
+5. pipenv shell
